@@ -1,0 +1,19 @@
+# PyCharm
+.idea/
+*.iml
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller / build
+build/
+dist/
+*.spec
+output/
